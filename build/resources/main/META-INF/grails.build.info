@@ -1,0 +1,6 @@
+#Wed, 06 Oct 2021 07:57:30 +0530
+
+info.app.version=0.1
+info.app.name=dam
+grails.env=development
+info.app.grailsVersion=4.0.3
