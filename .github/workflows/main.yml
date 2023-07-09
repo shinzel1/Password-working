@@ -1,7 +1,0 @@
-- name: Apache Maven Build Automation for Java Project
-  # You may pin to the exact commit or the version.
-  # uses: NishkarshRaj/Maven_Actions@93d239b16b3dbaece9ee1113663d197843d18495
-  uses: NishkarshRaj/Maven_Actions@0.1
-  with:
-    # Apache Maven hierarchy to be followed in src/main/java/{pkg name} for source code
-    src: # optional
